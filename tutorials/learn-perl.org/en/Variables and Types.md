@@ -17,7 +17,7 @@ The hash (`#`) sign starts a comment. Lines starting with `=` are interpreted as
 
 The semicolon (`;`) is required to end each Perl statement.
 
-The simplest way to print text to the screen is using the `print` command. Note that the parenthesis are notr required, so the next statements will produce the same result:
+The simplest way to print text to the screen is using the `print` command. Note that the parenthesis are not required, so the next statements will produce the same result:
 
 	print("this is a text line\n");
 	print "this is a text line\n";
